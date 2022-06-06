@@ -9,3 +9,5 @@ const renderElements = (arr, container) => {
             </div>`;
     });
   };
+
+  export default renderElements;
